@@ -5,3 +5,5 @@ Git
 hunter
 ansible
 subnet
+sg
+vpn
